@@ -1,4 +1,4 @@
-buy = 100
+buy = int(input('cost: '))
 if buy < 100:
     off = buy * 0.05
     cost = buy - off
