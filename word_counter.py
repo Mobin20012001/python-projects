@@ -12,4 +12,4 @@ def word(x):
             #شرط رو چک میکنه اگه کلمه قبلا نباشه یدونه به تعداد موجودیتش اضافه میکنه
             counts[word] = 1
     return counts
-print(word('i want to tell you how much i love you'))
+print(word('dond del me whad do do'))
